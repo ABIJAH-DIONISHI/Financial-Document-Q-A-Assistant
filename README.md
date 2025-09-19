@@ -1,7 +1,7 @@
   
-                 🎯 Problem Statement
-                                 •	Develop a web application that can process financial documents (PDF and Excel formats) and provide an interactive question-answering system for users to query financial data using natural language. 
-                                 •	The application should extract relevant financial information from uploaded documents and respond to user questions about revenue, expenses, profits, and other financial metrics.
+            🎯 Problem Statement
+            •	Develop a web application that can process financial documents (PDF and Excel formats) and provide an interactive question-answering system for users to query financial data using natural language. 
+            •	The application should extract relevant financial information from uploaded documents and respond to user questions about revenue, expenses, profits, and other financial metrics.
 
                    📋 Requirements
                       Document Processing
@@ -34,7 +34,8 @@
                   •	Include a README file with setup and usage instructions
                   
                   🎯 Success Criteria
-                  The application should successfully demonstrate the ability to upload a financial document, extract meaningful data, and answer basic questions about the financial information contained within the document.
+                  The application should successfully demonstrate the ability to upload a financial document, 
+                  extract meaningful data, and answer basic questions about the financial information contained within the document.
 
                   
 
