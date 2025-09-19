@@ -1,8 +1,6 @@
 import streamlit as st
-import PyPDF2
 import pandas as pd
 import requests
-from io import BytesIO
 import pdfplumber  
 
 st.title("📊 Financial QA with Ollama")
